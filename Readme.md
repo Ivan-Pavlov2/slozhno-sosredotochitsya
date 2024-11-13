@@ -6,6 +6,10 @@
 
 - [Ссылка на макет в Figma](https://www.figma.com/design/lCqDbWjgllgJtb2hmCqfyX/%236-Сложно-сосредоточиться?node-id=0-1&t=a5WuxLYJb5UkmkLZ-0)
 
+## Ссылка на репрозиторий
+
+- [Ссылка на репрозиторий](https://github.com/Ivan-Pavlov2/slozhno-sosredotochitsya.git)
+
 ## Что сделано
 
 - Верстка HTML-страниц и стилизация с использованием CSS;
