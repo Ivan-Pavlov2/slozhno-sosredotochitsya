@@ -3,6 +3,7 @@
 .page {
   font-family: var(--font-family);
   background-color: var(--background-color);
+  background-attachment: fixed;
   /* сохраните в разметке и стилях класс page. На его основе работает скрипт. */
 }
 
@@ -62,7 +63,6 @@
   grid-template-columns: repeat(2, auto);
   gap: 10px;
   block-size: 25px;
-  justify-self: end;
   color: var(--accent-color);
   font-size: var(--regular-font-size);
   text-transform: uppercase;
