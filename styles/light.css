@@ -11,9 +11,9 @@
   --text-color: #353430;
   --decoration-color: var(--text-color);
   --background-color: #fff1f7;
-  --header1-color: #ffc2e6;
-  --header2-color: var(--text-color);
-  --header3-color: var(--text-color);
+  --pink-color: #ffc2e6;
+  --acc-color: var(--text-color);
+  --back-color: var(--text-color);
   --is-light: hidden;
 
   /* сохраните этот селектор в приведённом виде.
@@ -30,9 +30,9 @@
     --text-color: #353430;
     --decoration-color: var(--text-color);
     --background-color: #fff1f7;
-    --header1-color: #ffc2e6;
-    --header2-color: var(--text-color);
-    --header3-color: var(--text-color);
+    --pink-color: #ffc2e6;
+    --acc-color: var(--text-color);
+    --back-color: var(--text-color);
     --is-light: hidden;
   }
 }
